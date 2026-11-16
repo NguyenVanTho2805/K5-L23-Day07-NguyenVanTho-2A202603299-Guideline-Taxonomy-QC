@@ -1,4 +1,4 @@
-# Guideline gan nhan — v0.1 (ban ca nhan reviewer) — 100
+# Guideline _ 123
 
 - Ngay: 2026-11-16
 - Nguoi viet: 123
